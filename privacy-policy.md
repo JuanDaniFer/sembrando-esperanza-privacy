@@ -1,5 +1,32 @@
+App Privacy Policy Generator
+Generate a generic Privacy Policy and Terms & Conditions for your apps
+Built with heart by Nishant and contributors.
+
+TwitterDisclaimerGitHub stars
+
+
+While App Privacy Policy Generator is completely FREE, it takes money to keep it running and updated.
+If you are able to, then consider contributing by:
+
+Sponsoring me on Github 👨🏻‍💻
+Buying me a cup of ☕
+If you are unable to contribute with funds, consider sharing it with your friends: Twitter, Linkedin, Facebook, Reddit
+
+...or adding a review/comment in the project's GuestBook 🤗
+
+All Done!
+Now sit back and choose the type of document you want to generate:
+
+
+
+
+The accuracy of the generated privacy policy and terms & conditions on this website is not legally binding. Use at your own risk.
+
+Read the full Disclaimer here
+
+
 Privacy Policy
-BlueGum built the Sembrando Esperanza app as a Free app. This SERVICE is provided by BlueGum at no cost and is intended for use as is.
+InnovaFV built the Sembrando Esperanza app as a Free app. This SERVICE is provided by InnovaFV at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
